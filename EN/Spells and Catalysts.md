@@ -4,7 +4,7 @@ Every spell is structured in 4 distinct phases:
 
 - **The Oneiric State (No Catalyst):** the spell is intangible, utilitarian and passive (here, a fixed light source that doesn't burn).
 
-- **The "[[Vital Energy]]" cost:** a loss of Vital Energy points.
+- **The "[Vital Energy](Vital%20Energy.md)" cost:** a loss of Vital Energy points.
 
 - **The Casting Matrix:** a precise combination of items in the right hand and left hand, with a "channeling" animation (the items drawing together, trembling).
 
@@ -18,6 +18,6 @@ Each catalyst has its own purpose, and not all spells and catalysts mix — comb
 
 Example spell patterns:
 
-[[Flamelet]]
+[Flamelet](Flamelet.md)
 
-[[Oneiric Dew]]
+[Oneiric Dew](Oneiric%20Dew.md)

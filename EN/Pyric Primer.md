@@ -11,5 +11,5 @@ A minor fire catalyst that concretizes most basic fire spells.
 *(-10%): tool consumed for 10% of its durability.*
 
 
-![[Pasted image 20260629231251.png|244]]
+![244](../Images/Pasted%20image%2020260629231251.png)
 *AI concept-image*

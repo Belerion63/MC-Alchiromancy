@@ -10,7 +10,7 @@ When you see an Enderman teleport, it's actually crossing from our world to the 
 
 Once you've got an Ender Pearl, you cook it in a furnace to obtain a Cracked Ender Pearl.
 
-The cracked pearl is ready to be reworked: now place it at the forge with an [[Alchemist's Hammer]]. This gives you an Ender Lens.
+The cracked pearl is ready to be reworked: now place it at the forge with an [Alchemist's Hammer](Alchemist's%20Hammer.md). This gives you an Ender Lens.
 
 Then, with the Ender Lens, you can craft an Alchemist's Monocle:
 
@@ -22,7 +22,7 @@ Then, with the Ender Lens, you can craft an Alchemist's Monocle:
 | Gold                      | Ender Lens | Gold  |
 | Glass                     | Gold       | Stick |
 
-![[Pasted image 20260629230934.png|307]]
+![307](../Images/Pasted%20image%2020260629230934.png)
 *AI concept-image*
 
 The Monocle lets you glimpse certain elements of the Alternate World.
@@ -41,4 +41,4 @@ To start a ritual you throw in an Ender Pearl; to end a ritual (confirm or cance
 
 A few recipes:
 
-[[Ironwood Sapling]] (a tree that grows iron)
+[Ironwood Sapling](Ironwood%20Sapling.md) (a tree that grows iron)

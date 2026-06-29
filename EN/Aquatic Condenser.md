@@ -5,6 +5,6 @@ A minor water catalyst that concretizes most basic water spells.
 |         |   Amethyst   |         |
 | :-----: | :----------: | :-----: |
 | Quartz  | Water Bucket | Quartz  |
-| Diorite |  [[Pearl]]   | Diorite |
+| Diorite |  [Pearl](Pearl.md)   | Diorite |
 
-![[Pasted image 20260629215811.png|204]]
+![204](../Images/Pasted%20image%2020260629215811.png)

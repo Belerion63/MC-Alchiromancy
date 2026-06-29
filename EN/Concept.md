@@ -20,7 +20,7 @@ Let's find a balance. These two opposing forces must serve one another. Let's lo
 
 Alchemy isn't free — it's an equivalent exchange between our world and the Alternate World. Everything brought back from the Alternate World is replaced by something from ours. An alchemist must keep the balance at every moment, at the risk of causing a collision between the two realities and triggering irreversible effects on themselves or the world.
 
-Magic is powerful, but it's a bottomless pit that draws in all your strength. It starts with your [[Vital Energy]], then your hunger, and ends by killing you once you've been drained.
+Magic is powerful, but it's a bottomless pit that draws in all your strength. It starts with your [Vital Energy](Vital%20Energy.md), then your hunger, and ends by killing you once you've been drained.
 
 But what would a mage who amplifies their own powers with alchemy achieve? Or an alchemist who sates the Alternate World with their own magical creations?
 

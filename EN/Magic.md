@@ -11,4 +11,4 @@ Conjuring a mighty blaze able to annihilate a whole dungeon? Impossible — you'
 
 Just digging a 500 m tunnel takes dozens of seasoned mages.
 
-[[Spells and Catalysts]]
+[Spells and Catalysts](Spells%20and%20Catalysts.md)

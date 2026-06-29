@@ -1,39 +1,39 @@
 # Alchiromancy — Index
 
-Map of contents for the design notes. New here? Read [[Concept]] first, keep [[Glossary]] open beside it.
+Map of contents for the design notes. New here? Read [Concept](Concept.md) first, keep [Glossary](Glossary.md) open beside it.
 
 ## 🧭 Start here
-- [[Concept]] — the pitch and the two-forces philosophy *(early note, may be outdated)*
-- [[Glossary]] — every coined term, with its French original
+- [Concept](Concept.md) — the pitch and the two-forces philosophy *(early note, may be outdated)*
+- [Glossary](Glossary.md) — every coined term, with its French original
 
 ## ⚖️ Core forces
-- [[Magic]] — the *create* force *(early note, may be outdated)*
-- [[Alchemy]] — the *exchange* force
-- [[Magic and Alchemy]] — how the two combine *(early note, may be outdated)*
+- [Magic](Magic.md) — the *create* force *(early note, may be outdated)*
+- [Alchemy](Alchemy.md) — the *exchange* force
+- [Magic and Alchemy](Magic%20and%20Alchemy.md) — how the two combine *(early note, may be outdated)*
 
 ## ✨ Magic system
-- [[Spells and Catalysts]] — the 4-phase anatomy of a spell
-- [[Vital Energy]] — the resource spells cost
+- [Spells and Catalysts](Spells%20and%20Catalysts.md) — the 4-phase anatomy of a spell
+- [Vital Energy](Vital%20Energy.md) — the resource spells cost
 
 **Spells**
-- [[Flamelet]]
-- [[Oneiric Dew]]
+- [Flamelet](Flamelet.md)
+- [Oneiric Dew](Oneiric%20Dew.md)
 
 **Catalysts**
-- [[Pyric Primer]]
-- [[Aquatic Condenser]]
+- [Pyric Primer](Pyric%20Primer.md)
+- [Aquatic Condenser](Aquatic%20Condenser.md)
 
 **Magical results**
-- [[Oneiric Fire]]
+- [Oneiric Fire](Oneiric%20Fire.md)
 
 ## ⚗️ Alchemy system
-- [[Transmutation]] — strict equivalent exchange (+ the Alternate Well progression)
-- [[Amplification]] — rule-less imbuing *(to be developed)*
+- [Transmutation](Transmutation.md) — strict equivalent exchange (+ the Alternate Well progression)
+- [Amplification](Amplification.md) — rule-less imbuing *(to be developed)*
 
 **Recipes & materials**
-- [[Ironwood Sapling]]
-- [[Blood]]
-- [[Pearl]]
+- [Ironwood Sapling](Ironwood%20Sapling.md)
+- [Blood](Blood.md)
+- [Pearl](Pearl.md)
 
 **Tools**
-- [[Alchemist's Hammer]]
+- [Alchemist's Hammer](Alchemist's%20Hammer.md)

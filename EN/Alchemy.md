@@ -4,10 +4,10 @@ Forget everything you know about our world; here the rules have nothing in commo
 
 We use the Alternate World in two ways.
 
-[[Transmutation]]: in exchange for resources equivalent to the request, the Alternate World provides an equivalent from its own world.
+[Transmutation](Transmutation.md): in exchange for resources equivalent to the request, the Alternate World provides an equivalent from its own world.
 
 seed + sapling + iron + rabbit's foot = Ironwood Sapling. A tree whose foliage is made of iron.
 
-[[Amplification]]: in exchange for resources, we imbue an object or an entity with alternate energy. It's a very powerful process that can work miracles — a simple iron pickaxe can become tougher than diamond.
+[Amplification](Amplification.md): in exchange for resources, we imbue an object or an entity with alternate energy. It's a very powerful process that can work miracles — a simple iron pickaxe can become tougher than diamond.
 
 The problem is that in alchemy nothing is free. And amplification has no strict rule: when you amplify something, you must give everything you have on hand until the Alternate World is satisfied — at the risk of creating an imbalance that could alter our reality or, worse, alter the entities present during the amplification.
