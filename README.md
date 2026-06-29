@@ -5,7 +5,7 @@
 
 A playthrough-spanning system built on two opposing forces — **Magic** (create / transform) and **Alchemy** (transmute / amplify) — that must serve one another. The player who balances both is an **Alchiromancer**.
 
-Start with the index — [`EN/Index.md`](EN/Index.md) — or jump straight to [`EN/Concept.md`](EN/Concept.md) and [`EN/Glossary.md`](EN/Glossary.md).
+Start with the index — [`EN/Index.md`](main/EN/Index.md) — or jump straight to [`EN/Concept.md`](EN/Concept.md) and [`EN/Glossary.md`](EN/Glossary.md).
 
 ## Status
 
