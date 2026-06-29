@@ -38,7 +38,7 @@ Map of contents for the design notes. New here? Read [Concept](Concept.md) first
 - [Glossary](EN/Glossary.md) — every coined term, with its French original
 
 ## ⚖️ Core forces
-- [Magic]EN/(Magic.md) — the *create* force *(early note, may be outdated)*
+- [Magic](EN/Magic.md) — the *create* force *(early note, may be outdated)*
 - [Alchemy](EN/Alchemy.md) — the *exchange* force
 - [Magic and Alchemy](EN/Magic%20and%20Alchemy.md) — how the two combine *(early note, may be outdated)*
 
