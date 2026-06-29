@@ -29,14 +29,42 @@ If you'd like to use, build upon, or collaborate on any part of this project, pl
 
 ---
 
-## 🇫🇷 Version française
+# Alchiromancy — Index
 
-**Alchiromancy** — document de game design pour un éventuel mod Minecraft.
+Map of contents for the design notes. New here? Read [Concept](Concept.md) first, keep [Glossary](Glossary.md) open beside it.
 
-Ce dépôt **n'est pas un mod** : ce sont des notes de conception décrivant un système de magie et d'alchimie qui pourrait, un jour, en devenir un.
+## 🧭 Start here
+- [Concept](Concept.md) — the pitch and the two-forces philosophy *(early note, may be outdated)*
+- [Glossary](Glossary.md) — every coined term, with its French original
 
-**Statut :** phase de conception. Aucun code, rien de jouable.
+## ⚖️ Core forces
+- [Magic](Magic.md) — the *create* force *(early note, may be outdated)*
+- [Alchemy](Alchemy.md) — the *exchange* force
+- [Magic and Alchemy](Magic%20and%20Alchemy.md) — how the two combine *(early note, may be outdated)*
 
-**À propos des fichiers :** ces notes sont **écrites par l'auteur en français**. Les fichiers anglais (dossier `EN/`) sont **traduits par IA** pour GitHub ; les versions françaises font foi. Trois notes anciennes (`Concept`, `Magic`, `Magic and Alchemy`) peuvent être **dépassées**.
+## ✨ Magic system
+- [Spells and Catalysts](Spells%20and%20Catalysts.md) — the 4-phase anatomy of a spell
+- [Vital Energy](Vital%20Energy.md) — the resource spells cost
 
-**Droits d'usage :** **Tous droits réservés.** © 2026 l'auteur. Ce dépôt est partagé publiquement uniquement à des fins de visibilité et de retours. **Toute utilisation, copie, modification, redistribution ou œuvre dérivée — de tout fichier, idée, nom, mécanique ou ressource de ce dépôt — est interdite sans le consentement préalable et explicite de l'auteur.** Pour toute utilisation ou collaboration, contactez d'abord l'auteur.
+**Spells**
+- [Flamelet](Flamelet.md)
+- [Oneiric Dew](Oneiric%20Dew.md)
+
+**Catalysts**
+- [Pyric Primer](Pyric%20Primer.md)
+- [Aquatic Condenser](Aquatic%20Condenser.md)
+
+**Magical results**
+- [Oneiric Fire](Oneiric%20Fire.md)
+
+## ⚗️ Alchemy system
+- [Transmutation](Transmutation.md) — strict equivalent exchange (+ the Alternate Well progression)
+- [Amplification](Amplification.md) — rule-less imbuing *(to be developed)*
+
+**Recipes & materials**
+- [Ironwood Sapling](Ironwood%20Sapling.md)
+- [Blood](Blood.md)
+- [Pearl](Pearl.md)
+
+**Tools**
+- [Alchemist's Hammer](Alchemist's%20Hammer.md)
