@@ -2,7 +2,7 @@
 
 Every spell is structured in 4 distinct phases:
 
-- **The Oneiric State (No Catalyst):** the spell is intangible, utilitarian and passive (here, a fixed light source that doesn't burn).
+- **The Oneiric State (No Catalyst):** the spell is intangible, utilitarian and passive.
 
 - **The "[Vital Energy](Vital%20Energy.md)" cost:** a loss of Vital Energy points.
 
